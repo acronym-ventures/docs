@@ -1,4 +1,4 @@
-This Cookies Policy elucidates Acronym Ventures LTD’s (“Acronym”) methods for collecting, utilizing, sharing, and retaining cookies related to our top-level domain website (https://account.acronym.exchange/) and sub-domains for our products or services (the top-level domain with the sub-domains collectively referred to as the “Sites”). This Policy pertains to the Services, which include the Sites, applications, products, and services (collectively, “Services”) in which the Policy is posted, linked, or referenced. 
+This Cookies Policy elucidates Acronym Ventures LTD’s (“Acronym”) methods for collecting, utilizing, sharing, and retaining cookies related to our top-level domain website [account.acronym.exchange](https://account.acronym.exchange) and sub-domains for our products or services (the top-level domain with the sub-domains collectively referred to as the “Sites”). This Policy pertains to the Services, which include the Sites, applications, products, and services (collectively, “Services”) in which the Policy is posted, linked, or referenced. 
 
 We understand the significance of your privacy, and we are committed to being transparent about the technologies we employ. In the spirit of transparency, this Policy provides comprehensive information regarding how and when we use cookies on our Sites.
 
@@ -30,7 +30,7 @@ Click [here](https://support.microsoft.com/en-us/help/17442/windows-internet-exp
 
 Click [here](https://support.apple.com/) to learn more about “Private Browsing” and managing cookie settings in Safari.
 
-If you want to learn more about cookies or how to control, disable, or delete them, please visit http://www.aboutcookies.org for detailed guidance. In addition, certain third-party advertising networks, including Google, permit users to opt out of or customize preferences associated with their internet browsing. To learn more about this feature from Google, click [here](https://adssettings.google.com/u/0/authenticated?hl=en).
+If you want to learn more about cookies or how to control, disable, or delete them, please visit [about cookies](http://www.aboutcookies.org) for detailed guidance. In addition, certain third-party advertising networks, including Google, permit users to opt out of or customize preferences associated with their internet browsing. To learn more about this feature from Google, click [here](https://adssettings.google.com/u/0/authenticated?hl=en).
 
 To control flash cookies, which we may use on our Sites occasionally, you can go to this [link](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html) because Flash cookies cannot be controlled through your browser settings. Please note that if you decline the use of Cookies, some functions of the Sites may be unavailable, and we will not be able to present personally tailored content and advertisements to you.
 
