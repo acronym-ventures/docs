@@ -10,11 +10,11 @@ These Terms of Service are essential guidelines you should read before using our
 
 Please note that Acronym has the right to change, update, or modify the Terms of Service without prior notice. We suggest you check the Vault regularly to ensure you are aware of any changes. If you continue to use any of our Services after the effective date of any updates, changes, or amendments, you agree to the modified Terms of Service.
 
-## **Acronym is a self-custody solution that allows you to hold and manage your digital tokens (cryptocurrency). You have complete control over your digital tokens via your private keys. Acronym does not store or have access to your digital tokens or private keys. Acronym is not responsible for lost access due to user negligence (forgotten passwords, lost seed phrases).**
+### **Acronym is a self-custody solution that allows you to hold and manage your digital tokens (cryptocurrency). You have complete control over your digital tokens via your private keys. Acronym does not store or have access to your digital tokens or private keys. Acronym is not responsible for lost access due to user negligence (forgotten passwords, lost seed phrases).**
 
 As a user of our Vault, you are granted a limited right to use our services as long as you comply with our terms of service, are not a prohibited person, and do not use our Vault for the benefit of a prohibited person. However, this right is subject to certain restrictions and obligations outlined in our terms of service. Please note that you do not have any ownership or title of our Vault, services, or trademarks except for the limited license granted to you. If you violate our terms of service or pose a risk to our associates, we reserve the right to suspend or terminate your account, freeze your assets, or take other necessary actions.
 
-## 1. Eligibility to use the Vault&#x20;
+## 1. Eligibility to use the Vault**
 
 * You confirm and warrant that all information you provide is complete and accurate. Additionally, you commit to maintaining complete and accurate information at all times.
 * You understand that you must notify us immediately of any changes in your address or residency information.
@@ -63,7 +63,7 @@ The Service may allow you to store, manage, and trade digital assets ("Digital A
    2. You will not use the Vault in conjunction with any business as a broker-dealer, investment advisor, futures commission merchant, commodities introducing broker, commodity trading advisor, member of a securities exchange or association, or futures contract market, or as a owner, partner, or associated person of any of the foregoing.
    3. If you are employed by a bank, insurance company, or an affiliate of either, you will not perform functions related to securities or commodity futures trading activity except concerning your Account(s) with us.
 
-#### **6. Unsupported assets**
+## **6. Unsupported assets**
 
 6.1 Acronym technology supports only cryptocurrencies and digital or virtual assets formally recognized with respect to the Vault. Any transfer of assets that Acronym technology does not support ("Unsupported Assets"), such as those received through initial coin offerings, forks, airdrops, user errors, or OMNI layer protocols, will not be accepted by Acronym on behalf of any user. Acronym reserves the right, at its discretion, to decline any value in exchange for such Unsupported Assets.
 
@@ -71,14 +71,14 @@ The Service may allow you to store, manage, and trade digital assets ("Digital A
 
 6.3 Acronym reserves the right to list or delist any Asset at any time at its sole discretion. Suppose Acronym delists an Asset you hold, making it an Unsupported Asset. In that case, Acronym will make reasonable attempts to convert the Asset into another supported Asset of Acronym’s choosing at the prevailing market rates before delisting. Acronym will credit you with the value of the Unsupported Asset minus the conversion cost. Suppose Acronym cannot convert an Unsupported Asset into a supported Asset. In that case, you may lose the value of the Unsupported Asset due to legal or regulatory restrictions, lack of an available market, or other reasons.
 
-#### **7. Inactive accounts**
+## **7. Inactive accounts**
 
 1. In the event you are holding funds in your Account, and Acronym has deemed the account inactive by no record of you transacting on the Vault for more than 90 days, applicable law states Acronym may be required to report these funds as unclaimed property to the State where your account is registered. If this occurs, Acronym will attempt to locate you via email and at the physical address on record; however, if Acronym cannot locate you, Acronym is not able to move your funds under any governing bodies behalf.
 2. Acronym will attempt to communicate to you before your account becomes inactive that it will be debited if it remains inactive past the 90-day anniversary.
 3. An account is considered inactive if the user initiates no transactions after 90 days. At its sole discretion, Acronym may close inactive accounts with zero balances. A transaction is considered any action in which value is moved and is initiated by a user within their Account, including a bank transfer (deposit or withdrawal), moving value between sub-accounts, or sending value to another user or crypto address.
 4. To the extent required by law, if you leave a balance unused for the period set forth by your state, country, or other governing body in its unclaimed property laws, if you cancel your Account and leave a balance, or if we deactivate your Account and you do not meet any conditions necessary to reinstate it within 12 (12) months, we may close your Account and require you to reach out to support for further assistance with your funds.
 
-#### **8. Taxes**
+## **8. Taxes**
 
 1. As a user of our Vault, you must ensure that applicable taxes, duties, and fees associated with activities conducted through your Account are paid promptly. You must also assume responsibility for all taxes, including interest and penalties, which may be assessed under current or future laws concerning your Account. Additionally, it is incumbent upon you to report any proceeds of sale transactions and dividends paid through your Account to the Internal Revenue Service in accordance with the relevant legal stipulations.
 2. Our Vault does not provide tax advice. As such, it is incumbent upon you to determine the tax implications associated with your use of the Vault and any transactions you may conduct through it. We strongly advise that you seek advice from a qualified accountant, lawyer, or tax authority in your jurisdiction to determine any tax consequences that may arise.
@@ -101,7 +101,7 @@ The Service may allow you to store, manage, and trade digital assets ("Digital A
    3. You may contact us to update the registration information we use for electronic communications or withdraw your consent to receive it.
    4. Please note that we retain the right to terminate your use of the Vault and any associated products and services should you decline or withdraw your consent to receive electronic communications.
 
-## 10. Indemnification: Acronym rights and remedies
+## **10. Indemnification: Acronym rights and remedies**
 
 1. The Acronym Vault's Terms and Conditions outline your indemnification responsibilities, your liability for any claims or damages arising from your use of the Vault, and the consequences of engaging in any prohibited business or use. You are obligated to indemnify and hold Acronym, its affiliates, and its representatives harmless from any damages, losses, expenses, and reasonable legal fees arising from a third-party claim related to your use of the Vault, including alleged violations of any laws, rules, or rights.
 2. Stipulates that you are responsible for any claims, fees, fines, penalties, and other liabilities incurred by Acronym or a third party due to any breach of the Terms and Conditions, any other user agreement, or your use of the Acronym Vault. You agree to reimburse Acronym or any third party for any such liabilities, fees, and expenses incurred in collecting such amounts.
@@ -120,7 +120,7 @@ The Service and all content and materials included on the Service, including but
 
 **WE STRIVE TO KEEP ACRONYMS RELIABLE, SECURE, AND BUG-FREE, BUT YOU ACKNOWLEDGE THAT YOU USE THEM AT YOUR OWN RISK.** HERE'S A BREAKDOWN OF WHAT THAT MEANS:
 
-* **"AS IS" AND "AS AVAILABLE":** THE Vault IS PROVIDED WITHOUT ANY GUARANTEES OR PROMISES, EXPRESS OR IMPLIED. THIS INCLUDES THINGS LIKE MERCHANTABILITY, FITNESS FOR A SPECIFIC PURPOSE, OR UNINTERRUPTED SERVICE.
+* **" AS IS" AND "AS AVAILABLE":** THE Vault IS PROVIDED WITHOUT ANY GUARANTEES OR PROMISES, EXPRESS OR IMPLIED. THIS INCLUDES THINGS LIKE MERCHANTABILITY, FITNESS FOR A SPECIFIC PURPOSE, OR UNINTERRUPTED SERVICE.
 * **NO WARRANTIES:** WE SPECIFICALLY DISCLAIM ANY WARRANTIES RELATED TO OWNERSHIP, MARKETABILITY, SUITABILITY FOR YOUR NEEDS, OR POTENTIAL INFRINGEMENT ON OTHERS' RIGHTS.
 * **INTERRUPTIONS AND ERRORS:** WE CAN'T GUARANTEE CONTINUOUS, ERROR-FREE, OR SECURE ACCESS TO THE Vault. MANY FACTORS BEYOND OUR CONTROL CAN IMPACT ITS OPERATION.
 * **VIRTUAL CURRENCY VOLATILITY:** WE OFFER NO GUARANTEES OR REPRESENTATIONS REGARDING THE VALUE OR STABILITY OF ANY VIRTUAL CURRENCY. HISTORICAL OR REAL-TIME PRICING DATA IS PROVIDED FOR INFORMATIONAL PURPOSES ONLY AND SHOULDN'T BE RELIED UPON FOR INVESTMENT DECISIONS.
