@@ -25,7 +25,6 @@ As a user of our Vault, you are granted a limited right to use our services as l
 * You agree that you will not engage in any Prohibited Businesses or Prohibited Use.
 * Please be advised that you are not permitted to supply any Value, product, or service to a resident of Cuba, the Democratic Republic of Congo, Iran, Iraq, Myanmar, North Korea, South Sudan, Sudan, Syria, Yemen, or any other jurisdiction subject to UN sanctions, HM Treasury's financial sanctions regime, or EU sanctions. For further details, please check the available links.
 * You are not acting for anyone and will not supply any Value, products, or services to Cuba, the Democratic Republic of Congo, Iran, Iraq, Myanmar, North Korea, South Sudan, Sudan, Syria, Yemen, or any other country subject to the Specially Designated Nationals List, the UN Consolidated United Nations Security Council Sanctions List, or the [EU financial sanctions list](https://webgate.ec.europa.eu/europeaid/fsd/fsf#!/filesd-list-of-sanctions\_en).
-* You agree not to send, use, or upload any scripts, viruses, or malicious code. Moreover, you will not develop extensions, plugins, or applications except as may be allowed under our [Developer Agreement](https://uphold.com/en/legal/developer-agreement).
 * You agree not to perform any actions that could disable, overburden, or impair the functionality, rendering, or appearance of our Vault, including through denial of service or other attacks.
 
 ## **2. User Accounts**
