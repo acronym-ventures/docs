@@ -4,4 +4,4 @@
   * [Terms of Service](legal-terms-and-policies/terms-of-service.md)
   * [Cookie Policy](legal-terms-and-policies/Cookies-Policy.md)
   * [Privacy Policy](legal-terms-and-policies/Privacy-Policy.md)
-  * [Risk-Disclosure-Statement](legal-terms-and-policies/Risk-Disclosure-Statement.md)
+  * [Risk Disclosure Statement](legal-terms-and-policies/Risk-Disclosure-Statement.md)
