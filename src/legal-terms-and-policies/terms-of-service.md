@@ -14,7 +14,7 @@ Please note that Acronym has the right to change, update, or modify the Terms of
 
 As a user of our Vault, you are granted a limited right to use our services as long as you comply with our terms of service, are not a prohibited person, and do not use our Vault for the benefit of a prohibited person. However, this right is subject to certain restrictions and obligations outlined in our terms of service. Please note that you do not have any ownership or title of our Vault, services, or trademarks except for the limited license granted to you. If you violate our terms of service or pose a risk to our associates, we reserve the right to suspend or terminate your account, freeze your assets, or take other necessary actions.
 
-## 1. Eligibility to use the Vault**
+## 1. Eligibility to use the Vault
 
 * You confirm and warrant that all information you provide is complete and accurate. Additionally, you commit to maintaining complete and accurate information at all times.
 * You understand that you must notify us immediately of any changes in your address or residency information.
