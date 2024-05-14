@@ -1,4 +1,4 @@
-This privacy policy (“Policy”) describes Acronyms. (“Company,” “we,” “our,” or “us”) collects, uses, shares, and stores users' personal information on [Acronym.fiduciis.com](https://account.acronym.exchange/). This Policy applies to the Sites, applications, products, and services (collectively, “Services”) on or in which it is posted, linked, or referenced.
+This privacy policy (“Policy”) describes Acronyms. (“Company,” “we,” “our,” or “us”) collects, uses, shares, and stores users' personal information on (https://account.acronym.exchange/). This Policy applies to the Sites, applications, products, and services (collectively, “Services”) on or in which it is posted, linked, or referenced.
 
 By using the Services, you accept the terms of this Policy and our [Terms of Services](https://docs.google.com/document/d/1la868xjgGizGgbEKpxsls5h0DPxIvax0ncEQWYZhPeM/edit) and consent to our collection, use, disclosure, and retention of your information as described in this Policy. If you still need to do so, please review our Services Terms. The Terms of Services contain provisions that limit our liability to you and require you to resolve any dispute with us individually, not as part of any class or representative action. IF YOU DO NOT AGREE WITH ANY PART OF THIS PRIVACY POLICY OR OUR Terms of Services, THEN DO NOT USE ANY SERVICES.
 
@@ -11,7 +11,7 @@ We get information about you in a range of ways.
 
 
 
-* Identity information, such as your first name, last name, username or similar identifier, title, date of birth and gender;
+* Identity information, such as your first name, last name, username or similar identifier, title, date of birth, and gender;
 * Contact information, such as your postal address, email address and telephone number;
 * Profile information, such as your username and password, interests, preferences, feedback and survey responses;
 * Feedback and correspondence, such as information you provide in your responses to surveys, when you participate in market research activities, report a problem with Service, receive customer support, or otherwise correspond with us;
@@ -79,7 +79,7 @@ We may use your personal information to protect, investigate, and deter against 
 
 #### **SHARING OF PERSONAL INFORMATION**
 
-We do not share the personal information you provide other organizations with without your express consent, except as described in this Privacy Policy. We disclose personal information to third parties under the following circumstances:
+We do not share personal information you provide to other organizations without your express consent, except as described in this Privacy Policy. We disclose personal information to third parties under the following circumstances:
 
 
 
@@ -90,7 +90,7 @@ We do not share the personal information you provide other organizations with wi
     * We may share information to respond to lawful requests and legal processes.
     * We may share information to protect the rights and property of the Company, our agents, customers, and others. This includes enforcing our agreements, policies, and Terms of Services.
     * We may share information in an emergency. This includes protecting the safety of our employees and agents, customers, or anyone.
-* **Professional Advisors and Service Providers. **We may share information with those who need it to do work for us. These recipients may include third-party companies and individuals who administer and provide the Service on our behalf (such as bill and credit card payment processing, customer support, hosting, email delivery, and database management services), as well as lawyers, bankers, auditors, and insurers.
+* Professional Advisors and Service Providers. **We may share information with those who need it to do work for us. These recipients may include third-party companies and individuals who administer and provide the Service on our behalf (such as bill and credit card payment processing, customer support, hosting, email delivery, and database management services), as well as lawyers, bankers, auditors, and insurers.
 * **Other**. Please permit us to share your personal information with other companies or entities of your choosing. Those uses will be subject to the privacy policies of the recipient entity or entities.
 
 We may also share aggregated and/or anonymized data with others for their use.
@@ -98,7 +98,7 @@ We may also share aggregated and/or anonymized data with others for their use.
 
 #### **INTERNATIONAL TRANSFER**
 
-The Company has offices outside of the Bahamas and affiliates and service providers in the EU and other countries. Your personal information may be transferred to or from the Bahamas or other locations outside of your state, province, country, or other governmental jurisdiction where privacy laws may not be as protective as those in your jurisdiction.
+The Company has offices outside the Common Wealth of Bahamas and affiliate service providers in the EU and other countries. Your personal information may be transferred to or from the Bahamas or other locations outside your state, province, country, or other governmental jurisdiction where privacy laws may not be as protective as those in your jurisdiction.
 
 
 #### **HOW INFORMATION IS SECURED**
