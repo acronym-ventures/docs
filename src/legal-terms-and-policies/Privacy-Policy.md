@@ -1,4 +1,4 @@
-This privacy policy (“Policy”) describes Acronyms. (“Company,” “we,” “our,” or “us”) collects, uses, shares, and stores users' personal information on (account.acronym.exchange). This Policy applies to the Sites, applications, products, and services (collectively, “Services”) on or in which it is posted, linked, or referenced.
+This privacy policy (“Policy”) describes Acronyms. (“Company,” “we,” “our,” or “us”) collects, uses, shares, and stores users' personal information on [account.acronym.exchange](https://account.acronym.exchange). This Policy applies to the Sites, applications, products, and services (collectively, “Services”) on or in which it is posted, linked, or referenced.
 
 By using the Services, you accept the terms of this Policy and our [Terms of Services](https://docs.acronym.exchange/readme/terms-of-service) and consent to our collection, use, disclosure, and retention of your information as described in this Policy. If you still need to do so, please review our Services Terms. The Terms of Services contain provisions that limit our liability to you and require you to resolve any dispute with us individually, not as part of any class or representative action. IF YOU DO NOT AGREE WITH ANY PART OF THIS PRIVACY POLICY OR OUR Terms of Services, THEN DO NOT USE ANY SERVICES.
 
@@ -25,12 +25,12 @@ We get information about you in a range of ways.
     **Information Automatically Collected**. We may automatically record certain information about how you use our Sites (we refer to this information as “Log Data“). Log Data may include information such as a user’s Internet Protocol (IP) address, device and browser type, operating system, the pages or features of our Sites to which a user browsed and the time spent on those pages or features, the frequency with which a user uses the Sites, search terms, the links on our Sites that a user clicked on or used, and other statistics. We use this information to administer the Service and analyze (and may engage third parties to analyze) this information to improve and enhance the Service by expanding its features and functionality and tailoring it to our users’ needs and preferences.
 
 
-    We may use cookies, local storage, or similar technologies to analyze trends, administer the Sites, track users’ movements around the Sites, and gather demographic information about our user base. Users can control cookies and local storage at the individual browser level. For more information, please see our [Cookies Policy](https://docs.google.com/document/d/15Vy0VS8dRipfNjp4ITsMc67zPNaPbMzjOwhe1zBFuuY/edit).
+    We may use cookies, local storage, or similar technologies to analyze trends, administer the Sites, track users’ movements around the Sites, and gather demographic information about our user base. Users can control cookies and local storage at the individual browser level. For more information, please see our [Cookies Policy](https://docs.acronym.exchange/readme/cookies-policy).
 
 
 **Tracking Technologies Generally**
 
-Regular cookies may generally be disabled or removed by tools available in most commercial browsers and, in some instances, blocked in the future by selecting certain settings. For more information, please see our [Cookies Policy.](https://docs.google.com/document/d/15Vy0VS8dRipfNjp4ITsMc67zPNaPbMzjOwhe1zBFuuY/edit)
+Regular cookies may generally be disabled or removed by tools available in most commercial browsers and, in some instances, blocked in the future by selecting certain settings. For more information, please see our [Cookies Policy.](https://docs.acronym.exchange/readme/cookies-policy)
 
 **Google Analytics**
 
