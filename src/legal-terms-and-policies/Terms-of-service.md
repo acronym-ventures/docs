@@ -114,8 +114,11 @@ The Service may allow you to store, manage, and trade digital assets ("Digital A
 9.3. Delivery of Electronic Communications shall be deemed to have taken place upon delivery in any of the following forms:
 
    9.3.1. Posting on your Account on our website or associated mobile application;
+   
    9.3.2. Posting on a website or mobile application associated with us or the Vault;
+   
    9.3.3. Sending via electronic mail to the email address you used to register for the Vault;
+   
    9.4.4. Communicating via the Vault in any other manner.
       
 9.4. The recipient is responsible for opening and reviewing all Communications delivered through the aforementioned methods. While the provider may notify the recipient of the Communication's availability, it is not obligated to do so. For example, the recipient may be informed of a Communication via a notification sent to their mobile device.
