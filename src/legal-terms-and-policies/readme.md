@@ -1,6 +1,7 @@
 # Feature-and-Timeline
 <table>
 </table>
+</table>
   <tr>
    <td><strong>SECURITY FEATURES</strong>
    </td>
