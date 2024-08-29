@@ -17,9 +17,8 @@ As a user of our Vault, you are granted a limited right to use our services as l
 ## 1. Eligibility to use the Vault
 
 * You confirm and warrant that all information you provide is complete and accurate. Additionally, you commit to maintaining complete and accurate information at all times.
-* You understand that you must notify us immediately of any changes in your address or residency information.
 * You agree to provide us with your legal identity and any supporting information and documents we may request, such as a copy of your driver's license and passport.
-* Please ensure you access our Vault from a country or state where we permit its use. For more information, please refer to the list provided here.
+* Please ensure you access our Vault from a country or state where we permit its use. 
 * You agree that using our Vault will comply with all applicable laws and regulations, including export controls and economic sanctions requirements.
 * By accessing our Vault, you confirm that you are at least 18 years old and have the capacity to enter into a legally binding agreement.
 * You agree that you will not engage in any Prohibited Businesses or Prohibited Use.
