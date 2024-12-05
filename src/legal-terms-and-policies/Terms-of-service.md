@@ -10,7 +10,7 @@ These Terms of Service are essential guidelines you should read before using our
 
 Please note that Acronym has the right to change, update, or modify the Terms of Service without prior notice. We suggest you check the Vault regularly to ensure you are aware of any changes. If you continue to use any of our Services after the effective date of any updates, changes, or amendments, you agree to the modified Terms of Service.
 
-### **Acronym is a self-custody solution that allows you to hold and manage your digital tokens (cryptocurrency). You have complete control over your digital tokens via your private keys. Acronym does not store or have access to your digital tokens or private keys. Acronym is not responsible for lost access due to user negligence (forgotten passwords, lost seed phrases).**
+**Acronym is a self-custody solution that allows you to hold and manage your digital tokens (cryptocurrency). You have complete control over your digital tokens via your private keys. Acronym does not store or have access to your digital tokens or private keys. Acronym is not responsible for lost access due to user negligence (forgotten passwords, lost seed phrases).**
 
 As a user of our Vault, you are granted a limited right to use our services as long as you comply with our terms of service, are not a prohibited person, and do not use our Vault for the benefit of a prohibited person. However, this right is subject to certain restrictions and obligations outlined in our terms of service. Please note that you do not have any ownership or title of our Vault, services, or trademarks except for the limited license granted to you. If you violate our terms of service or pose a risk to our associates, we reserve the right to suspend or terminate your account, freeze your assets, or take other necessary actions.
 
@@ -18,12 +18,12 @@ As a user of our Vault, you are granted a limited right to use our services as l
 
 * You confirm and warrant that all information you provide is complete and accurate. Additionally, you commit to maintaining complete and accurate information at all times.
 * You agree to provide us with your legal identity and any supporting information and documents we may request, such as a copy of your driver's license and passport.
-* Please ensure you access our Vault from a country or state where we permit its use. 
+* Please ensure you access our Vault from a country or state where we permit its use.
 * You agree that using our Vault will comply with all applicable laws and regulations, including export controls and economic sanctions requirements.
 * By accessing our Vault, you confirm that you are at least 18 years old and have the capacity to enter into a legally binding agreement.
 * You agree that you will not engage in any Prohibited Businesses or Prohibited Use.
 * Please be advised that you are not permitted to supply any Value, product, or service to a resident of Cuba, the Democratic Republic of Congo, Iran, Iraq, Myanmar, North Korea, South Sudan, Sudan, Syria, Yemen, or any other jurisdiction subject to UN sanctions, HM Treasury's financial sanctions regime, or EU sanctions. For further details, please check the available links.
-* You are not acting for anyone and will not supply any Value, products, or services to Cuba, the Democratic Republic of Congo, Iran, Iraq, Myanmar, North Korea, South Sudan, Sudan, Syria, Yemen, or any other country subject to the Specially Designated Nationals List, the UN Consolidated United Nations Security Council Sanctions List, or the [EU financial sanctions list](https://webgate.ec.europa.eu/europeaid/fsd/fsf#!/filesd-list-of-sanctions\_en).
+* You are not acting for anyone and will not supply any Value, products, or services to Cuba, the Democratic Republic of Congo, Iran, Iraq, Myanmar, North Korea, South Sudan, Sudan, Syria, Yemen, or any other country subject to the Specially Designated Nationals List, the UN Consolidated United Nations Security Council Sanctions List, or the [EU financial sanctions list](https://webgate.ec.europa.eu/europeaid/fsd/fsf#!/filesd-list-of-sanctions_en).
 * You agree not to perform any actions that could disable, overburden, or impair the functionality, rendering, or appearance of our Vault, including through denial of service or other attacks.
 
 ## **2. User Accounts**
@@ -32,12 +32,12 @@ As a user of our Vault, you are granted a limited right to use our services as l
 
 2.2. To create an Account, you must provide an email and password, and you will be required to set up a Master password and two-factor authentication (“2FA”) by signing up for our service and accepting these terms.
 
-2.3. As a regulated financial services company, we must identify all users for legal, regulatory, and compliance purposes before allowing them to use our Vault. To ensure compliance with applicable reporting requirements in the jurisdictions in which we operate, we may collect and verify your personal information, including your legal name, address, government identification, and date of birth. We may also ask you questions and verify information ourselves or obtain personal information from third parties to verify your identity, prevent fraud, and request information from other entities like banks for information about you. 
+2.3. As a regulated financial services company, we must identify all users for legal, regulatory, and compliance purposes before allowing them to use our Vault. To ensure compliance with applicable reporting requirements in the jurisdictions in which we operate, we may collect and verify your personal information, including your legal name, address, government identification, and date of birth. We may also ask you questions and verify information ourselves or obtain personal information from third parties to verify your identity, prevent fraud, and request information from other entities like banks for information about you.
 
-   By agreeing to these terms, you certify, under penalty of perjury, that the information provided, including your legal name, address, government identification, and date of birth, is correct. You also agree that we may use your information to verify your identity.
-   
-   You acknowledge and agree that we may conduct necessary inquiries directly or through third parties to determine your identity. This includes requiring you to confirm ownership of your email address or financial instruments and verifying information against third-party databases or through other sources. These inquiries and verifications may involve sharing certain aspects of your information with third parties to complete these inquiries and verification.
-   
+By agreeing to these terms, you certify, under penalty of perjury, that the information provided, including your legal name, address, government identification, and date of birth, is correct. You also agree that we may use your information to verify your identity.
+
+You acknowledge and agree that we may conduct necessary inquiries directly or through third parties to determine your identity. This includes requiring you to confirm ownership of your email address or financial instruments and verifying information against third-party databases or through other sources. These inquiries and verifications may involve sharing certain aspects of your information with third parties to complete these inquiries and verification.
+
 2.4. Our commitment to protecting your privacy is a top priority. We understand that your personal information is sensitive and confidential, and we do not share it unless required by law or with your express consent. In situations where it is necessary to share your information with third parties to complete a transaction or prevent fraud, we will do so under our Privacy & Data Policy. Sharing information with law enforcement officials or other parties may prevent financial loss or a violation of the law. In that case, we may contact them and share details of any transactions you are associated with. For more information, please refer to our Privacy & Data Policy.
 
 2.5. If you are creating an Account on behalf of a company, we require confirmation that you are an authorized entity officer and have the authority to enter into agreements for and on behalf of the company.
@@ -74,11 +74,11 @@ The Service may allow you to store, manage, and trade digital assets ("Digital A
 
 5.6. We require you to represent and agree that the following statements are true and will remain true as long as you have access to our Vault:
 
-   5.6.1. You will not use any information or market data from a national securities exchange or association for professional or commercial activities. If you intend to do so, you agree to notify us and pay any additional charges.
-   
-   5.6.2. You will not use the Vault in conjunction with any business as a broker-dealer, investment advisor, futures commission merchant, commodities introducing broker, commodity trading advisor, member of a securities exchange or association, or futures contract market, or as a owner, partner, or associated person of any of the foregoing.
-   
-   5.6.3. If you are employed by a bank, insurance company, or an affiliate of either, you will not perform functions related to securities or commodity futures trading activity except concerning your Account(s) with us.
+5.6.1. You will not use any information or market data from a national securities exchange or association for professional or commercial activities. If you intend to do so, you agree to notify us and pay any additional charges.
+
+5.6.2. You will not use the Vault in conjunction with any business as a broker-dealer, investment advisor, futures commission merchant, commodities introducing broker, commodity trading advisor, member of a securities exchange or association, or futures contract market, or as a owner, partner, or associated person of any of the foregoing.
+
+5.6.3. If you are employed by a bank, insurance company, or an affiliate of either, you will not perform functions related to securities or commodity futures trading activity except concerning your Account(s) with us.
 
 ## **6. Unsupported assets**
 
@@ -112,14 +112,14 @@ The Service may allow you to store, manage, and trade digital assets ("Digital A
 
 9.3. Delivery of Electronic Communications shall be deemed to have taken place upon delivery in any of the following forms:
 
-   9.3.1. Posting on your Account on our website or associated mobile application;
-   
-   9.3.2. Posting on a website or mobile application associated with us or the Vault;
-   
-   9.3.3. Sending via electronic mail to the email address you used to register for the Vault;
-   
-   9.4.4. Communicating via the Vault in any other manner.
-      
+9.3.1. Posting on your Account on our website or associated mobile application;
+
+9.3.2. Posting on a website or mobile application associated with us or the Vault;
+
+9.3.3. Sending via electronic mail to the email address you used to register for the Vault;
+
+9.4.4. Communicating via the Vault in any other manner.
+
 9.4. The recipient is responsible for opening and reviewing all Communications delivered through the aforementioned methods. While the provider may notify the recipient of the Communication's availability, it is not obligated to do so. For example, the recipient may be informed of a Communication via a notification sent to their mobile device.
 
 9.5. To ensure the receipt of all Communications, the recipient must keep their primary email address registered with the provider up to date. The provider will consider an electronic Communication to have been delivered to the recipient if it was sent but has yet to be received due to an incorrect, outdated, or blocked email address or any other reason. The recipient may update their primary email address and other contact information by submitting a support request or logging into the Vault and navigating to their profile.
@@ -128,13 +128,13 @@ The Service may allow you to store, manage, and trade digital assets ("Digital A
 
 9.7. Should you wish to request additional copies of communications or withdraw your consent, please consider the following additional terms:
 
-   9.7.1. You may contact us or any relevant service provider to request another electronic copy of the communication, and we shall not impose a fee.
-   
-   9.7.2. If you require a paper copy of the electronic communication within 90 days of its original issuance, please note that we reserve the right to charge a fee for its provision.
-   
-   9.7.3. You may contact us to update the registration information we use for electronic communications or withdraw your consent to receive it.
-   
-   9.7.4. Please note that we retain the right to terminate your use of the Vault and any associated products and services should you decline or withdraw your consent to receive electronic communications.
+9.7.1. You may contact us or any relevant service provider to request another electronic copy of the communication, and we shall not impose a fee.
+
+9.7.2. If you require a paper copy of the electronic communication within 90 days of its original issuance, please note that we reserve the right to charge a fee for its provision.
+
+9.7.3. You may contact us to update the registration information we use for electronic communications or withdraw your consent to receive it.
+
+9.7.4. Please note that we retain the right to terminate your use of the Vault and any associated products and services should you decline or withdraw your consent to receive electronic communications.
 
 ## **10. Indemnification: Acronym rights and remedies**
 
