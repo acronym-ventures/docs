@@ -32,13 +32,13 @@ As a user of our Vault, you are granted a limited right to use our services as l
 
 2.2. To create an Account, you must provide an email and password, and you will be required to set up a Master password and two-factor authentication (“2FA”) by signing up for our service and accepting these terms.
 
-2.3. As a regulated financial services company, we must identify all users for legal, regulatory, and compliance purposes before allowing them to use our Vault. To ensure compliance with applicable reporting requirements in the jurisdictions in which we operate, we may collect and verify your personal information, including your legal name, address, government identification, and date of birth. We may also ask you questions and verify information ourselves or obtain personal information from third parties to verify your identity, prevent fraud, and request information from other entities like banks for information about you.
+2.3. As a regulated financial services company, we must identify all users for legal, regulatory, and compliance purposes before allowing them to use our Vault. To ensure compliance with applicable reporting requirements in the jurisdictions in which we operate, for users wishing to interact with our Trading Vault we may collect and verify your personal information, including your legal name, address, government identification, and date of birth. We may also ask you questions and verify information ourselves or obtain personal information from third parties to verify your identity, prevent fraud, and request information from other entities like banks for information about you.
 
 By agreeing to these terms, you certify, under penalty of perjury, that the information provided, including your legal name, address, government identification, and date of birth, is correct. You also agree that we may use your information to verify your identity.
 
 You acknowledge and agree that we may conduct necessary inquiries directly or through third parties to determine your identity. This includes requiring you to confirm ownership of your email address or financial instruments and verifying information against third-party databases or through other sources. These inquiries and verifications may involve sharing certain aspects of your information with third parties to complete these inquiries and verification.
 
-2.4. Our commitment to protecting your privacy is a top priority. We understand that your personal information is sensitive and confidential, and we do not share it unless required by law or with your express consent. In situations where it is necessary to share your information with third parties to complete a transaction or prevent fraud, we will do so under our Privacy & Data Policy. Sharing information with law enforcement officials or other parties may prevent financial loss or a violation of the law. In that case, we may contact them and share details of any transactions you are associated with. For more information, please refer to our Privacy & Data Policy.
+2.4. Our commitment to protecting your privacy is a top priority. We understand that your personal information is sensitive and confidential, and we do not share it unless required by law or with your express consent. In situations where it is necessary to share your information with third parties to complete a transaction or prevent fraud, we will do so under our Privacy Policy. Sharing information with law enforcement officials or other parties may prevent financial loss or a violation of the law. In that case, we may contact them and share details of any transactions you are associated with. For more information, please refer to our Privacy Policy.
 
 2.5. If you are creating an Account on behalf of a company, we require confirmation that you are an authorized entity officer and have the authority to enter into agreements for and on behalf of the company.
 
@@ -92,7 +92,7 @@ The Service may allow you to store, manage, and trade digital assets ("Digital A
 
 **7.1 Cold Storage Vault and DeFi Wallets**
 
-For Vault and DeFi Wallet services provided by Acronym, there will be no rules or restrictions regarding inactive accounts. Funds held in these services will remain accessible to the user indefinitely, without any requirement for periodic activity. Users are encouraged to ensure they maintain secure access to their credentials to avoid any inconvenience.
+For Vault and DeFi Wallet services provided by Acronym, there will be no restrictions regarding inactive accounts. Funds held in these services will remain accessible to the user indefinitely, without any requirement for periodic activity. Users are encouraged to ensure they maintain secure access to their credentials to avoid any inconvenience.
 
 **7.2 Trading Vault**
 
