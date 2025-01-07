@@ -121,7 +121,7 @@ For accounts associated with Acronym’s trading vault, the following rules appl
 
 9.3.3. Sending via electronic mail to the email address you used to register for the Vault;
 
-9.4.4. Communicating via the Vault in any other manner.
+9.3.4. Communicating via the Vault in any other manner.
 
 9.4. The recipient is responsible for opening and reviewing all Communications delivered through the aforementioned methods. While the provider may notify the recipient of the Communication's availability, it is not obligated to do so. For example, the recipient may be informed of a Communication via a notification sent to their mobile device.
 
