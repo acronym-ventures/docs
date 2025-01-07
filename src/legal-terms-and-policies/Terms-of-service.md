@@ -90,15 +90,25 @@ The Service may allow you to store, manage, and trade digital assets ("Digital A
 
 ## **7. Inactive accounts**
 
-7.1. In the event you are holding funds in your Account, and Acronym has deemed the account inactive by no record of you transacting on the Vault for more than 90 days, applicable law states Acronym may be required to report these funds as unclaimed property to the State where your account is registered. If this occurs, Acronym will attempt to locate you via email and at the physical address on record; however, if Acronym cannot locate you, Acronym is not able to move your funds under any governing bodies behalf.
+**7.1 Cold Storage Vault and DeFi Wallets**
 
-7.2. Acronym will attempt to communicate to you before your account becomes inactive that it will be debited if it remains inactive past the 90-day anniversary.
+For Vault and DeFi Wallet services provided by Acronym, there will be no rules or restrictions regarding inactive accounts. Funds held in these services will remain accessible to the user indefinitely, without any requirement for periodic activity. Users are encouraged to ensure they maintain secure access to their credentials to avoid any inconvenience.
 
-7.3. An account is considered inactive if the user initiates no transactions after 90 days. At its sole discretion, Acronym may close inactive accounts with zero balances. A transaction is considered any action in which value is moved and is initiated by a user within their Account, including a bank transfer (deposit or withdrawal), moving value between sub-accounts, or sending value to another user or crypto address.
+**7.2 Trading Vault**
 
-7.4. To the extent required by law, if you leave a balance unused for the period set forth by your state, country, or other governing body in its unclaimed property laws, if you cancel your Account and leave a balance, or if we deactivate your Account and you do not meet any conditions necessary to reinstate it within 12 (12) months, we may close your Account and require you to reach out to support for further assistance with your funds.
+For accounts associated with Acronym’s trading vault, the following rules apply:
 
-## **8. Taxes**
+7.2.1. **Reporting of Unclaimed Property:** In the event you are holding funds in your Trading Vault and Acronym has deemed the account inactive due to no record of transactions for more than 5 years, applicable law may require Acronym to report these funds as unclaimed property to the Country where your account is registered. If this occurs, Acronym will attempt to locate you via email and at the physical address on record. However, if Acronym cannot locate you, Acronym is obligated to convert any digital assets into preferred currency and remit the funds to the respective countries unclaimed property office. This process is known as **escheatment**.
+
+7.2.2. **Communication Prior to Inactivity:** Acronym will attempt to notify you before your account is deemed inactive. If your account remains inactive beyond the 5 year period, it may be subject to inactivity rules, including potential debiting or closure.
+
+7.2.3 **Definition of Inactivity:** An account is considered inactive if there is no account activity or contact from the account holder for 5 consecutive years. A account activity is defined as any action in which value is moved and is initiated by the user within their Account. This includes bank transfers (deposits or withdrawals), moving value between sub-accounts, or sending value to another user or crypto address.
+
+7.2.4. **Closure of Inactive Accounts:** At its sole discretion, Acronym may close inactive accounts with zero balances. For accounts with remaining balances, users will need to contact Acronym’s support team for further assistance in retrieving their funds.
+
+7.2.5. **Compliance with Unclaimed Property Laws:** To the extent required by law, if you leave a balance unused for the period specified by your state, country, or other governing body’s unclaimed property laws, or if you cancel your Account and leave a balance, or if Acronym deactivates your Account and you do not meet the conditions necessary to reinstate it within 12 months, Acronym may close your Account. Users will be required to reach out to support for assistance with reclaiming their funds.
+
+**8. Taxes**
 
 8.1. As a user of our Vault, you must ensure that applicable taxes, duties, and fees associated with activities conducted through your Account are paid promptly. You must also assume responsibility for all taxes, including interest and penalties, which may be assessed under current or future laws concerning your Account. Additionally, it is incumbent upon you to report any proceeds of sale transactions and dividends paid through your Account to the Internal Revenue Service in accordance with the relevant legal stipulations.
 
