@@ -10,7 +10,7 @@ These Terms of Service are essential guidelines you should read before using our
 
 Please note that Acronym has the right to change, update, or modify the Terms of Service without prior notice. We suggest you check the Vault regularly to ensure you are aware of any changes. If you continue to use any of our Services after the effective date of any updates, changes, or amendments, you agree to the modified Terms of Service.
 
-**Acronym is a self-custody solution that allows you to hold and manage your digital tokens (cryptocurrency). You have complete control over your digital tokens via your private keys. Acronym does not store or have access to your digital tokens or private keys. Acronym is not responsible for lost access due to user negligence (forgotten passwords, lost seed phrases).**
+**Acronym is a self-custody solution that allows you to hold and manage your digital tokens (cryptocurrency). You have complete control over your digital tokens via your private keys. Acronym does not store or have access to your digital tokens or private keys. Acronym is not responsible for lost access due to user negligence (forgotten Master Passwords).**
 
 As a user of our Vault, you are granted a limited right to use our services as long as you comply with our terms of service, are not a prohibited person, and do not use our Vault for the benefit of a prohibited person. However, this right is subject to certain restrictions and obligations outlined in our terms of service. Please note that you do not have any ownership or title of our Vault, services, or trademarks except for the limited license granted to you. If you violate our terms of service or pose a risk to our associates, we reserve the right to suspend or terminate your account, freeze your assets, or take other necessary actions.
 
@@ -147,7 +147,7 @@ For accounts associated with Acronym’s trading vault, the following rules appl
 
 ## **11. Termination**
 
-11.1. If a user discontinues using the Vault, they can cancel their Account as long as they are in good standing and in compliance with the Terms and Conditions and other policies. To cancel, they must withdraw all funds in their Account and visit our cancellation page. We may cancel or suspend any pending transactions and hold funds until any applicable reversal windows are complete. In addition, all obligations to us must be satisfied before we process the cancellation. We want to remind our users that Account cancellation cannot be used to avoid paying amounts due or if their activity is under investigation. If withdrawals are subject to minimum balances and users cannot cancel their accounts, they are encouraged to contact Acronym support for assistance.
+11.1. If a user discontinues using the Vault, they can cancel their Account as long as they are in good standing and in compliance with the Terms and Conditions and other policies. To cancel, they must withdraw all funds in their Account and visit our [cancellation page](https://beta.acronym.fi/profile). We may cancel or suspend any pending transactions and hold funds until any applicable reversal windows are complete. In addition, all obligations to us must be satisfied before we process the cancellation. We want to remind our users that Account cancellation cannot be used to avoid paying amounts due or if their activity is under investigation. If withdrawals are subject to minimum balances and users cannot cancel their accounts, they are encouraged to contact Acronym support for assistance.
 
 11.2. Should we suspect that a user's Account is connected to any Prohibited Use or Prohibited Business, or if they violate the Terms and Conditions or any applicable agreements or policies, we reserve the right to terminate, suspend, or restrict their Account and use of the Vault. We may take such actions as required by applicable law or to prevent potential loss. We consider the use of the Vault a privilege and not a right. Therefore, we reserve the right to take any necessary measures to protect our users, Acronym, and Acronym's reputation.
 
@@ -183,7 +183,7 @@ The Service and all content and materials included on the Service, including but
 
 **WE ENCOURAGE YOU TO REVIEW THESE LIMITATIONS CAREFULLY AND UNDERSTAND YOUR POTENTIAL RISKS BEFORE USING ACRONYM.**
 
-**BY USING THE Vault, YOU ACKNOWLEDGE AND AGREE TO ALL THE DISCLAIMERS AND LIMITATIONS OF LIABILITY OUTLINED ABOVE.**
+**BY USING THE VAULT, YOU ACKNOWLEDGE AND AGREE TO ALL THE DISCLAIMERS AND LIMITATIONS OF LIABILITY OUTLINED ABOVE.**
 
 ## **14. Limitation of Liability**
 
